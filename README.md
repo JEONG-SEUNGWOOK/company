@@ -11,6 +11,7 @@ sk, LINE
 두번째 수정
 
 세번째 수정
+<<<<<<< HEAD
 
 다섯째 수정
 =======
@@ -23,3 +24,6 @@ sk, LINE
 
 >>>>>>> tazarnsmj/master
 >>>>>>> patch-1
+=======
+네번째 수정
+>>>>>>> tazarnsmj/master
