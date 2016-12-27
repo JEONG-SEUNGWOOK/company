@@ -2,4 +2,5 @@
 
 samsung, LG, naver
 
-sk
+-------------------
+SK
