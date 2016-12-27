@@ -1,0 +1,3 @@
+# company
+
+samsung, LG, naver
