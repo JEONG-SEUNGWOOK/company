@@ -2,4 +2,6 @@
 
 samsung, LG, naver
 
-sk
+sk, LINE
+------------------
+
